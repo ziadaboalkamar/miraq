@@ -1,0 +1,64 @@
+
+
+@media (min-width: 992px){
+}
+@media (max-width: 991.98px){
+  
+.logo img{
+       margin-right: 303px;
+
+}
+.img-center img{
+	    width: 400px;
+	        height: 520px;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 576px) {
+
+.right-side h5 a{
+font-size: 15px;	
+}
+
+.img-center img{
+	    width: 370px;
+	        height: 455px;
+}
+.logo img{
+    width: 99px;
+    margin-right: 114px;
+    margin-top: -15px;
+
+
+}
+
+.to-stor-submit{
+    margin-top: 43px;
+  
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+body{
+    background-color: RGB(0, 49, 54)!important;
+}
+
+
+
+
+@font-face {
+  font-family: myFirstFont ;
+  src: url(../font/avenir-light.ttf);
+
+}
+@font-face {
+  font-family: mysecondFont ;
+  src: url(../font/Avenir-Book.ttf);
+}
+@font-face {
+  font-family: mytherdFont ;
+  src: url(../font/Muna-Regular.ttf);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.right-side{
+    padding-top: 40px;
+}
+.right-side h5{
+display: inline-block;
+padding-left: 20px;
+
+}
+.right-side h5 a{
+    text-decoration: none;
+    color: #ffffff6e;
+       font-size: 16px;
+    font-family: myFirstFont;
+}
+.right-side h5 a:hover{
+    color: white;
+
+}
+
+.logo{
+    padding-top: 40px;
+}
+.logo img{
+       width: 83px;
+    margin-right: 49px;
+   
+    margin-top: 17px;
+
+
+}
+.img-center img {
+               height: 421px;
+    width: 514px;
+    margin-top: 10px;
+}
+.to-stor-submit{
+
+  
+}
+.to-stor-submit button{
+     background: #003136;
+    color: white!important;
+    width: 243px;
+    height: 48px;
+          margin-top:15px;
+    border: 2px solid #ffffffb3;
+}
+.to-stor-submit button a ._1{
+color: white;
+          font-size: 23px;
+    margin-top: -9px;
+    text-decoration: none;
+    font-family: mytherdFont;
+
+    }
+    .to-stor-submit button a{
+               text-decoration: none;
+
+    }
+    .to-stor-submit button a ._2{
+color: white;
+    font-size: 19px;
+    margin-top: -25px;
+       text-decoration: none;
+font-family: mysecondFont ;
+
+    }
+
+
+
+
+.to-stor-submit input{
+          background-color: RGB(0, 49, 54)!important;
+    color: white;
+    border: 2px solid #ffffff85;
+    font-size: 19px;
+    font-weight: bold;
+    width: 191px;
+    height: 50px;
+    margin-top: 21px;
+}

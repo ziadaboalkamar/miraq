@@ -1,0 +1,93 @@
+
+
+
+ 
+
+@media (max-width: 991.98px){
+  
+.logo img{
+       margin-right: 303px;
+
+}
+}
+@media (max-width: 991.98px){
+  
+
+
+
+.logo img{
+    width: 99px;
+        margin-right: -71px;
+    margin-top: -15px;
+
+
+}
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 576px) {
+
+.right-side h5 a{
+font-size: 15px;
+}
+.right-side h6 a{
+font-size: 15px;	
+}
+
+
+.logo img{
+    width: 99px;
+    margin-right: 114px;
+    margin-top: -15px;
+
+
+}
+.content .en h3{
+	    font-size: 29px;
+	    	text-align: center;
+
+}
+.content .ar h3{
+	    font-size: 49px;
+	    	text-align: center;
+
+}
+.content .ar p{
+		text-align: center;
+
+	      font-size: 24px;
+}
+.content .en p{
+	text-align: center;
+	    font-size: 22px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

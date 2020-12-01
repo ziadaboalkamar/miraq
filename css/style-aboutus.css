@@ -1,0 +1,129 @@
+body{
+    background-color: RGB(0, 49, 54)!important;
+}
+
+
+@font-face {
+  font-family: myFirstFont ;
+  src: url(../font/avenir-light.ttf);
+
+}
+
+
+
+@font-face {
+  font-family: mysecondFont ;
+  src: url(../font/Muna-Bold.ttf);
+}
+@font-face {
+  font-family: mytherdFont ;
+  src: url(../font/Neue-Bold.ttf);
+}
+@font-face {
+  font-family: myforthFont ;
+  src: url(../font/Muna-Regular.ttf);
+}
+@font-face {
+  font-family: myfifthFont ;
+  src: url(../font/Tajawal-Light.ttf);
+}
+
+@font-face {
+  font-family: mysixFont ;
+  src: url(../font/AbrilFatface-Regular.ttf);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* start nav bar */
+.right-side{
+    padding-top: 40px;
+}
+.right-side h5{
+display: inline-block;
+padding-left: 20px;
+
+}
+.right-side h6{
+display: inline-block;
+padding-left: 20px;
+
+}
+.right-side h5 a{
+  text-decoration: none;
+    color: #ffffff6e;
+           font-size: 16px;
+
+    font-family: myFirstFont;
+}
+.right-side h5 a:hover{
+    color: white;
+}
+.right-side h6 a{
+    text-decoration: none;
+    color:white;
+         font-size: 16px;
+
+    font-family: myFirstFont;
+}
+.logo{
+    padding-top: 40px;
+}
+.logo img{
+  width: 88px;
+    margin-right: 49px;
+    margin-top: 42px;
+    margin-bottom: 13px;
+}
+/* end navbar */
+/* start content */
+.content{
+     padding-top: 10px;
+}
+.content .row{
+    margin: 0 auto!important;
+    width: 75%;
+}
+.content .en h3{
+    color: #fff;
+    font-family: mysixFont;
+           font-size: 36px;
+          margin-top: 19px;
+    margin-bottom: 36px;
+}
+.content .en p{
+           color: #ffffffd9;
+    margin-bottom: 25px;
+    font-family: myFirstFont;
+    font-size: 18px;
+}
+.content .ar h3 {
+        padding-top: 20px;
+        color: #fff;
+
+    font-family: mysecondFont;
+        font-size: 46px;
+
+    margin-bottom: -18px;
+        text-align: right;
+
+}
+.content .ar p {
+         padding-top: 42px;
+        color: #ffffffd9;
+    font-family: myfifthFont;
+    margin-bottom: -30px;
+    text-align: right;
+
+}
+/* end content */
